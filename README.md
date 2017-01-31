@@ -1,8 +1,2 @@
 # Resume-Parser
-Scan through resumes for keywords.
-
-Use cases
-
-1. Filter for languages and technologies
-
-2. Keep track of number of times a word appears
+Scan through resumes for keywords. Started for 2016 Addepar winter hackathon, incomplete and in very rough state. 
